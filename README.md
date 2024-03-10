@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Second Year PhD student working on *representation learing* for robotic applications. 
+I'm a Second Year PhD student working on *representation learning* for robotic applications. 
 
 
 
