@@ -1,5 +1,5 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25" width="25" >
-Graduate of **Institut National des Sciences Appliquées de Rennes** 🇫🇷 - Major in **Computer Science and AI** 🎓.
+Graduate of **[Institut National des Sciences Appliquées de Rennes](https://www.insa-rennes.fr/)** 🇫🇷 - Major in **Computer Science and AI** 🎓.
 
 ### 🤓 About Me:
 - 💼 I'm a **second year PhD student** working on *representation learning* for robotic applications at [Ecole Centrale de Lyon](https://www.ec-lyon.fr/) 🇫🇷
