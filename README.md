@@ -2,7 +2,7 @@
 Graduate of **[Institut National des Sciences Appliquées de Rennes](https://www.insa-rennes.fr/)** 🇫🇷 - Major in **Computer Science and AI** 🎓.
 
 ### 🤓 About Me:
-- 💼 I'm a **third year PhD student** working on *representation learning* for robotic applications at [Ecole Centrale de Lyon](https://www.ec-lyon.fr/) 🇫🇷
+- 💼 I'm a **fourth year PhD student** working on *representation learning* for robotic applications at [Ecole Centrale de Lyon](https://www.ec-lyon.fr/) 🇫🇷
 - 🌱 I’m interested in self-supervised learning, representation learning, object-centric representation and robotics systems.
 - 📫 Reach me at: **alexandre-chapin@ec-lyon.fr**
 
